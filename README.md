@@ -42,7 +42,7 @@ Make sure the `haarcascade_frontalface_default.xml` file is available in OpenCV'
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/<AmirRghp>/<Real-Time-Emotion-Recognition>.git
+git clone https://github.com/AmirRghp/Real-Time-Emotion-Recognition.git
 cd <Real-Time-Emotion-Recognition>
 ```
 
