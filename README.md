@@ -101,6 +101,10 @@ cd Real-Time-Emotion-Recognition
 ## Customization
 
 - **Model**: Replace `your-model.pt` with your trained PyTorch model.
+   - i used this data set :
+     ```
+     https://www.kaggle.com/code/youssefismail20/human-emotion-detection
+     ``` 
 - **Emotion Labels**: Update the `self.emotions` list in `main.py` to match your model's classes.
 - **Camera Input**: Adjust `cv2.VideoCapture(0)` in the `start_video` method for your camera setup (e.g., use `1` for DroidCam).
 
