@@ -1,0 +1,11 @@
+# Ignore virtual environment
+myvenv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore other unnecessary files
+.DS_Store  # macOS
+*.log      # Log files
