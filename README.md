@@ -111,7 +111,7 @@ cd Real-Time-Emotion-Recognition
 ---
 
 ## Screenshot
-![App Screenshot](screenshots/AppPic.png)
+![App Screenshot](Screenshots/AppPic.png)
 
 ## Troubleshooting
 
